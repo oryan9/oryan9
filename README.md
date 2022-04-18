@@ -23,4 +23,4 @@
 
 ![Oryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oryan9&show_icons=true&theme=radical)
 
-![Oryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oryan9&count_private=true)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oryan9&show_icons=true&theme=dark&locale=en&layout=compact" alt="oryan9" /></p>
