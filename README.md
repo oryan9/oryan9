@@ -22,3 +22,5 @@
 
 
 ![Oryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oryan9&show_icons=true&theme=radical)
+
+![Oryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oryan9&count_private=true)
