@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Öryan Karakaş</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **HTML-CSS-BOOTSTRAP-REACTJS**
+- 🌱 I’m currently learning **HTML-CSS-BOOTSTRAP-C#-.NET CORE*
 
-- 🤝 I’m looking for help with **ReactJS**
+- 🤝 I’m looking for help with **C# .NET CORE**
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Jr.Back End Developer**
 
 - 📫 How to reach me **karakasoryan@gmail.com**
 
