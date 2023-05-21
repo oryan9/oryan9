@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Öryan Karakaş</h1>
-<h3 align="center">A passionate Backend developer from Turkey</h3>
+<h3 align="center">A passionate Back-end developer from Turkey</h3>
 
 - 🌱 I’m currently learning **HTML-CSS-BOOTSTRAP-C#-.NET CORE*
 
